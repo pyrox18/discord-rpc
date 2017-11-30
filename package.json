@@ -28,7 +28,7 @@
     "prepublishOnly": "NODE_ENV=production npm run build:browser"
   },
   "dependencies": {
-    "discord.js": "github:hydrabolt/discord.js",
+    "discord.js": "github:iCrawl/discord.js#no-peer-deps",
     "snekfetch": "^3.5.8"
   },
   "peerDependencies": {
